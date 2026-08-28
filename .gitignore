@@ -132,8 +132,6 @@ coverage/
 
 # Local project docs (generated, not for VCS)
 .local-docs/
-tencentdb实现逻辑.md
-tencentdb实现逻辑
 .gitignore
 .joycode/memory/MEMORY.md
 .joycode/memory/project_fork_setup.md
