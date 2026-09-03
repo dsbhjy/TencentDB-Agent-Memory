@@ -135,3 +135,5 @@ coverage/
 .gitignore
 .joycode/memory/MEMORY.md
 .joycode/memory/project_fork_setup.md
+2026-09-01-memory-l0-design.md
+2026-09-02-memory-l1-design.md
